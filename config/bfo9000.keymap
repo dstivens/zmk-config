@@ -14,7 +14,7 @@
 &kp ESC    &kp F1    &kp F2    &kp F3  &kp F4      &kp F5     &kp KP_NUM  &kp C_VOLUME_DOWN  &kp C_VOL_UP     &kp F6         &kp F7     &kp F8     &kp F9     &kp F10      &kp F11               &kp F12          &kp PSCRN       &kp DEL
 &kp GRAVE  &kp N1    &kp N2    &kp N3  &kp N4      &kp N5     &kp KP_N7   &kp KP_N8          &kp KP_N9        &kp N6         &kp N7     &kp N8     &kp N9     &kp N0       &kp MINUS             &kp EQUAL        &kp BSPC        &kp BSPC
 &kp TAB    &kp Q     &kp W     &kp E   &kp R       &kp T      &kp KP_N4   &kp KP_N5          &kp KP_N6        &kp Y          &kp U      &kp I      &kp O      &kp P        &kp LBKT              &kp RBKT         &kp RET         &kp RET
-&kp LCTRL  &kp A     &kp S     &kp D   &kp F       &kp G      &kp KP_N1   &kp KP_N2          &kp KP_N3        &kp H          &kp J      &kp K      &kp L      &kp SEMI     &kp AT                &kp NON_US_HASH  &kp RET         &kp RET
+&kp LCTRL  &kp A     &kp S     &kp D   &kp F       &kp G      &kp KP_N1   &kp KP_N2          &kp KP_N3        &kp H          &kp J      &kp K      &kp L      &kp SEMI     &kp APOS              &kp NON_US_HASH  &kp RET         &kp RET
 &kp LSHFT  &kp Z     &kp X     &kp C   &kp V       &kp B      &kp KP_N0   &kp KP_DOT         &kp KP_MULTIPLY  &kp N          &kp M      &kp COMMA  &kp DOT    &kp SLASH    &kp NON_US_BACKSLASH  &kp HOME         &kp UP          &kp END
 &kp LCTRL  &kp LGUI  &kp LALT  &mo 1   &kp K_MUTE  &kp SPACE  &kp SPACE   &kp SPACE          &kp SPACE        &kp BACKSPACE  &kp SPACE  &kp SPACE  &kp SPACE  &kp PAGE_UP  &kp PAGE_DOWN         &kp LEFT_ARROW   &kp DOWN_ARROW  &kp RIGHT
             >;
